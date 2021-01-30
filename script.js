@@ -40,3 +40,5 @@ $(".saveBtn").on("click", function() {
     var hour = $(this).parent().attr("id");
     localStorage.setItem(hour,input);
 });
+
+colorCode();
