@@ -1,9 +1,6 @@
 var today = moment();
 $("#currentDay").text(today.format("MMMM Do YYYY"));
 
-colorCode();
-
-
 var setColor = setInterval(colorCode,10000); 
 
 
