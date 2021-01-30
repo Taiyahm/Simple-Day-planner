@@ -13,6 +13,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
+![image](https://user-images.githubusercontent.com/72588525/106360497-b397c400-62e6-11eb-85ad-4bff9705463c.png)
 
 Enter your plans for that hour into the timeblocks and hit save so its doesnt disapper when the page reloads.
 
