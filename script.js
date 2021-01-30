@@ -16,10 +16,6 @@ function colorCode(){
 
         var color = $("#hour-"+i).children(".description")
         
-        color.removeClass("past");
-        color.removeClass("present");
-        color.removeClass("future");
-
         if (currentTime == i) {
             color.addClass("present");
         } else if (currentTime > i) {
