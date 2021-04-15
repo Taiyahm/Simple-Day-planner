@@ -5,17 +5,11 @@
   8AM - 5pm.The present time is shown in red,future time is in green, and the time that has past is be colored in grey.
 
 
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
 ## Usage 
 
 ![image](https://user-images.githubusercontent.com/72588525/106360497-b397c400-62e6-11eb-85ad-4bff9705463c.png)
 
-Enter your plans for that hour into the timeblocks and hit save so its doesnt disapper when the page reloads.
+Enter your plans for that hour into the time-blocks and hit save so its doesn't disappear when the page reloads.
 
 
 ## Credits
